@@ -1,0 +1,5 @@
+{
+  "name": "Defect Detection Dashboard",
+  "description": "A high-tech, glassmorphic dashboard for analyzing video and audio defect datasets with 3D visualizations.",
+  "requestFramePermissions": []
+}
